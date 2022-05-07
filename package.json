@@ -1,5 +1,5 @@
 {
-  "name": "geometry-lib",
+  "name": "geo-library",
   "version": "1.0.0",
   "description": "A Math Module for calculating the Geometry calculations",
   "main": "app.js",
