@@ -1,7 +1,7 @@
-const Triangle = require("./geo.module/triangle");
-const Rectangle = require("./geo.module/rectangle");
-const Circle = require("./geo.module/circle");
-const Square = require("./geo.module/square");
+const Triangle = require("./geomodule/triangle");
+const Rectangle = require("./geomodule/rectangle");
+const Circle = require("./geomodule/circle");
+const Square = require("./geomodule/square");
 
 // Exporting the Modules
 module.exports = {
