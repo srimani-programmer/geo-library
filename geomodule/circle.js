@@ -1,7 +1,7 @@
 const PI = 3.14;
 
 class Circle {
-  // Method to calculate perimeter of a circle.
+  // Method to calculate the diameter of a circle.
   static diameter(radius) {
     return 2 * radius;
   }
